@@ -1,0 +1,15 @@
+{
+	"appname": "comprar",
+	"scope": "CatalogAdmin CatalogReader CategoryAdmin",
+	"clientid": "15E7C97D-6118-4196-A918-3CA1A7322108",
+	"buyerid": "-vFp9Wt410qMRpFpEQuVyg",
+	"catalogid": "-vFp9Wt410qMRpFpEQuVyg",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
